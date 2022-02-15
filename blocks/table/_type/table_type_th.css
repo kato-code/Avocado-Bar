@@ -1,6 +1,9 @@
 .table_type_th {
     font-family: "Nunito";
+    font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 49px;
+
+    text-align: left;
 }
