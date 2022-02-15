@@ -1,0 +1,11 @@
+.home-page__block {
+    margin-right: 117px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-page__block:last-of-type {
+    margin-right: 53px;
+}
