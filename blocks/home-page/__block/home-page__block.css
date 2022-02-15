@@ -3,7 +3,3 @@
     flex-direction: column;
     justify-content: space-around;
 }
-
-.home-page__block:last-of-type {
-    margin-right: -70px;
-}

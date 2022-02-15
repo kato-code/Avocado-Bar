@@ -1,4 +1,3 @@
-/* .home-page__img {
-    width: 557px;
-    height: 719px;
-} */
+.home-page__img {
+    margin-right: -70px;
+}
