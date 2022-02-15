@@ -1,7 +1,10 @@
 .btn_type_header {
+    width: 81px;
+    height: 42px;
+    
     margin-left: 48px;
     padding: 12px 16px;
 
-    width: 81px;
-    height: 42px;
+    font-size: 14px;
+    line-height: 18px;
 }

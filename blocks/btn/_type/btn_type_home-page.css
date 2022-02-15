@@ -1,6 +1,9 @@
 .btn_type_home-page {
-    padding: 16px 32px;
-
     width: 160px;
     height: 55px;
+    
+    padding: 16px 32px;
+
+    font-size: 18px;
+    line-height: 23px;
 }
