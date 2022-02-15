@@ -1,12 +1,9 @@
 .home-page__block {
-    /* margin-right: 117px; */
-    margin-right: 0;
-
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
-/* .home-page__block:last-of-type {
-    margin-right: 53px;
-} */
+.home-page__block:last-of-type {
+    margin-right: -70px;
+}
