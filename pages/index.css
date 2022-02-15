@@ -1,0 +1,23 @@
+@import url("../blocks/body/body.css");
+
+@import url("../blocks/page-container/page-container.css");
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__link/header__link.css");
+
+@import url("../blocks/main-container/main-container.css");
+
+@import url("../blocks/home-page/home-page.css");
+@import url("../blocks/home-page/__block/home-page__block.css");
+@import url("../blocks/home-page/__title/home-page__title.css");
+@import url("../blocks/home-page/__text/home-page__text.css");
+@import url("../blocks/home-page/__img/home-page__img.css");
+
+@import url("../blocks/table/table.css");
+@import url("../blocks/table/_type/table_type_th.css");
+@import url("../blocks/table/_type/table_type_td.css");
+
+@import url("../blocks/btn/btn.css");
+@import url("../blocks/btn/_type/btn_type_home-page.css");
+@import url("../blocks/btn/_type/btn_type_header.css");
