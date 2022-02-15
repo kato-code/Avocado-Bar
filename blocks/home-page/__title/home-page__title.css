@@ -1,8 +1,9 @@
 .home-page__title {
     margin: 0;
     
-    font-style: normal;
+    font-family: "Nunito";
     font-weight: bold;
     font-size: 72px;
     line-height: 92px;
+    color: #1A1A1A;
 }
