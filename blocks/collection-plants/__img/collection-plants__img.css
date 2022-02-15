@@ -1,0 +1,9 @@
+.collection-plants__img {
+    margin-right: 20px;
+
+    scroll-snap-align: center;
+}
+
+.collection-plants__img:last-of-type {
+    margin-right: 0;
+}

@@ -23,3 +23,9 @@
 @import url("../blocks/btn/btn.css");
 @import url("../blocks/btn/_type/btn_type_home-page.css");
 @import url("../blocks/btn/_type/btn_type_header.css");
+
+@import url("../blocks/collection-plants/collection-plants.css");
+@import url("../blocks/collection-plants/__block/collection-plants__block.css");
+@import url("../blocks/collection-plants/__title/collection-plants__title.css");
+@import url("../blocks/collection-plants/__link/collection-plants__link.css");
+@import url("../blocks/collection-plants/__img/collection-plants__img.css");
