@@ -1,0 +1,11 @@
+.about-us__title {
+    margin: 14px 0 0 0;
+
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+
+    color: #1A1A1A;
+}

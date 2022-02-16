@@ -1,0 +1,10 @@
+.about-us__img {
+    width: 446px;
+    height: 440px;
+
+    position: absolute;
+    top: 40px;
+    left: 70px;
+
+    z-index: 100;
+}

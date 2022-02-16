@@ -1,0 +1,9 @@
+.about-us__block {
+    margin-right: 150px;
+
+    position: relative;
+}
+
+.about-us__block:last-of-type {
+    margin-right: 0;
+}
