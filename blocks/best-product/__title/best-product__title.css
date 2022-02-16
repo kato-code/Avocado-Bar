@@ -1,0 +1,11 @@
+.best-product__title {
+    margin: 0;
+    
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #1A1A1A;
+}

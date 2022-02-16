@@ -24,6 +24,7 @@
 @import url("../blocks/btn/_type/btn_type_home-page.css");
 @import url("../blocks/btn/_type/btn_type_header.css");
 @import url("../blocks/btn/_type/btn_type_about-us.css");
+@import url("../blocks/btn/_type/btn_type_best-product.css");
 
 @import url("../blocks/collection-plants/collection-plants.css");
 @import url("../blocks/collection-plants/__block/collection-plants__block.css");
@@ -38,3 +39,19 @@
 @import url("../blocks/about-us/__link/about-us__link.css");
 @import url("../blocks/about-us/__title/about-us__title.css");
 @import url("../blocks/about-us/__text/about-us__text.css");
+
+@import url("../blocks/best-product/best-product.css");
+@import url("../blocks/best-product/__title/best-product__title.css");
+@import url("../blocks/best-product/__nav/best-product__nav.css");
+@import url("../blocks/best-product/__link/best-product__link.css");
+@import url("../blocks/best-product/__list/best-product__list.css");
+@import url("../blocks/best-product/__item/best-product__item.css");
+@import url("../blocks/best-product/__item/_color/best-product__item_color_mint.css");
+@import url("../blocks/best-product/__item/_color/best-product__item_color_pink.css");
+@import url("../blocks/best-product/__item/_color/best-product__item_color_green.css");
+@import url("../blocks/best-product/__item/_color/best-product__item_color_blue.css");
+@import url("../blocks/best-product/__img/best-product__img.css");
+@import url("../blocks/best-product/__subtitle/best-product__subtitle.css");
+@import url("../blocks/best-product/__rating/best-product__rating.css");
+@import url("../blocks/best-product/__price/best-product__price.css");
+
