@@ -1,0 +1,17 @@
+.subscribe__form-input {
+    width: 451px;
+    height: 56px;
+
+    padding: 8px 8px 8px 20px;
+
+    box-sizing: border-box;
+    
+    border-radius: 4px;
+    border: none;
+    outline: none;
+
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #5A5A5A;
+}

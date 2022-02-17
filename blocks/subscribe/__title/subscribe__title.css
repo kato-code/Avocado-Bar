@@ -1,0 +1,11 @@
+.subscribe__title {
+    margin: 0;
+
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 48px;
+
+    color: #1A1A1A;
+}

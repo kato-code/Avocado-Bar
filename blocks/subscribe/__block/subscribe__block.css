@@ -1,0 +1,13 @@
+.subscribe__block {
+    padding: 60px 380px 60px 56px;
+
+    box-sizing: border-box;
+
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+
+    background-color: #DFFFE3;
+}

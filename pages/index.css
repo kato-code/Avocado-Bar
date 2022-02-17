@@ -25,6 +25,7 @@
 @import url("../blocks/btn/_type/btn_type_header.css");
 @import url("../blocks/btn/_type/btn_type_about-us.css");
 @import url("../blocks/btn/_type/btn_type_best-product.css");
+@import url("../blocks/btn/_type/btn_type_subscribe.css");
 
 @import url("../blocks/collection-plants/collection-plants.css");
 @import url("../blocks/collection-plants/__block/collection-plants__block.css");
@@ -67,4 +68,13 @@
 @import url("../blocks/reviews/__card-job/reviews__card-job.css");
 @import url("../blocks/reviews/__card-text/reviews__card-text.css");
 @import url("../blocks/reviews/__block-img/reviews__block-img.css");
+
+@import url("../blocks/subscribe/subscribe.css");
+@import url("../blocks/subscribe/__block/subscribe__block.css");
+@import url("../blocks/subscribe/__title/subscribe__title.css");
+@import url("../blocks/subscribe/__text/subscribe__text.css");
+@import url("../blocks/subscribe/__form/subscribe__form.css");
+@import url("../blocks/subscribe/__form-block/subscribe__form-block.css");
+@import url("../blocks/subscribe/__form-input/subscribe__form-input.css");
+@import url("../blocks/subscribe/__img/subscribe__img.css");
 

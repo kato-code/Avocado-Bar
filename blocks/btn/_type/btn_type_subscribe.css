@@ -1,0 +1,10 @@
+.btn_type_subscribe {
+    width: 98px;
+    height: 40px;
+
+    margin-right: 8px;
+    padding: 11px 16px;
+
+    font-size: 14px;
+    line-height: 18px;
+}
