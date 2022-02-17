@@ -1,0 +1,19 @@
+.follow-us__overlay {
+    width: 80px;
+    height: 80px;
+
+    position: absolute;
+    top: 60px;
+    right: 60px;
+
+    z-index: 33;
+}
+
+.follow-us__overlay:hover {
+    opacity: 0.6;
+    transition: opacity 0.3s linear;
+
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}

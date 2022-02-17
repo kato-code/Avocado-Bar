@@ -79,3 +79,11 @@
 @import url("../blocks/subscribe/__form-input/subscribe__form-input.css");
 @import url("../blocks/subscribe/__img/subscribe__img.css");
 
+@import url("../blocks/follow-us/follow-us.css");
+@import url("../blocks/follow-us/__title/follow-us__title.css");
+@import url("../blocks/follow-us/__text/follow-us__text.css");
+@import url("../blocks/follow-us/__list/follow-us__list.css");
+@import url("../blocks/follow-us/__item/follow-us__item.css");
+@import url("../blocks/follow-us/__overlay/follow-us__overlay.css");
+@import url("../blocks/follow-us/__img/follow-us__img.css");
+
