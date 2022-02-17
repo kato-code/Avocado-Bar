@@ -1,0 +1,11 @@
+.reviews__card-name {
+    margin: 5px 0 0 0;
+
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}

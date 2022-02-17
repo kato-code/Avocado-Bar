@@ -1,0 +1,6 @@
+.reviews__block-img {
+    width: 100%;
+
+    background: rgba(255, 255, 255) url("../../../img/woman.png") no-repeat;
+    background-position: center;
+}
