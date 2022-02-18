@@ -1,0 +1,11 @@
+.footer__block {
+    margin-right: 30px;
+}
+
+.footer__block:first-of-type {
+    margin-right: 158px;
+}
+
+.footer__block:last-of-type {
+    margin-right: 0;
+}

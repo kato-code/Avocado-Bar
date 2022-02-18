@@ -87,3 +87,14 @@
 @import url("../blocks/follow-us/__overlay/follow-us__overlay.css");
 @import url("../blocks/follow-us/__img/follow-us__img.css");
 
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__container/footer__container.css");
+@import url("../blocks/footer/__block/footer__block.css");
+@import url("../blocks/footer/__title/footer__title.css");
+@import url("../blocks/footer/__text/footer__text.css");
+@import url("../blocks/footer/__social/footer__social.css");
+@import url("../blocks/footer/__social-link/footer__social-link.css");
+@import url("../blocks/footer/__social-img/footer__social-img.css");
+@import url("../blocks/footer/__list/footer__list.css");
+@import url("../blocks/footer/__item/footer__item.css");
+@import url("../blocks/footer/__item-link/footer__item-link.css");
