@@ -11,9 +11,6 @@
 
 .follow-us__overlay:hover {
     opacity: 0.6;
-    transition: opacity 0.3s linear;
-
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
+    transition: 0.4s linear;
     transform: scale(1.2);
 }
