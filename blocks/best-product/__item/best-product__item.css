@@ -3,10 +3,6 @@
     height: 270px;
 
     margin-right: 15px;
-
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-around; */
 }
 
 .best-product__item:last-of-type {
